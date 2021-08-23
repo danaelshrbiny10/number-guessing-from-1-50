@@ -1,2 +1,2 @@
-# python-number-guessing-2
-number guessing between 1 & 50
+# About
+  - random number guessing from 1-50 using python
